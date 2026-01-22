@@ -1,0 +1,10 @@
+- [x] Check CUDA availability (nvidia-smi)
+- [x] Create requirements.txt
+- [x] Create virtual environment (pix2pix_env)
+- [x] Install dependencies
+- [x] Create prepare_dataset.py for pairing images
+- [x] Create infer.py for inference
+- [ ] Populate datasets/ with paired images (use prepare_dataset.py or manually)
+- [ ] Run training: python train.py (activate env first)
+- [ ] Monitor training progress (check evaluation/ folder for examples)
+- [ ] For inference: Use infer.py after training
